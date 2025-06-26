@@ -18,9 +18,9 @@
       
       "OpenAdNetwork"      : "admob",
       
-      "AdInterval"         : 1,
+      "AdInterval"         : 5,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
@@ -139,12 +139,6 @@
       "packageName": "com.ghezaal.enayat.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/E88mm5LSW4SXYv2DM6QK3dbKUnts7Eie1at9XkMk-ebvsUfTwNsj_hygkBPErWjKp8I=w240-h480-rw",
       "download": "+280K"
-    },
-    {
-      "name": "MARJAN SONG",
-      "packageName": "com.marjan.song.hugetech",
-      "icon": "https://play-lh.googleusercontent.com/1kmfnm27eI2SWKfrc7cgHE5QWWMZxK137n4mJzyvDmxC_uKjbQdYF5-YaxLuGUKMrSc=w240-h480-rw",
-      "download": "+480K"
     },
     {
       "name": "SATIN SONG",
